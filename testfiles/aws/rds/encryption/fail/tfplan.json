@@ -37,7 +37,7 @@
                         "manage_master_user_password": true,
                         "max_allocated_storage": null,
                         "monitoring_interval": 0,
-                        "password": null,
+                        "password": test-password,
                         "performance_insights_enabled": false,
                         "publicly_accessible": false,
                         "replicate_source_db": null,
